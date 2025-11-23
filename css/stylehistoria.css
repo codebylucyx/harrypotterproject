@@ -1,0 +1,413 @@
+body {
+
+    background-image: url(/imagenes/historia/fondo.png);
+    background-size: cover;
+    background-attachment: fixed;
+    margin: 0;
+    padding: 0;
+
+}
+
+header {
+
+    height: 101px;
+    background-color: #112633;
+    display: flex;
+    justify-content: center;
+
+}
+
+.logopr {
+
+    position: absolute;
+    justify-content: center;
+    top: -30px;
+    width: 170px;
+    height: 170px;
+
+}
+
+nav {
+
+    font-family: "Aref Ruqaa Ink", serif;
+    font-weight: 100;
+    font-style: normal;
+    color: #a4d5d9;
+    background-color: #193543;
+    text-align: center;
+    font-size: 18px;
+    padding: auto;
+
+
+}
+
+nav ul {
+
+    list-style-type: none;
+    display: flex;
+    margin: 0;
+    justify-content: center;
+    margin-right: 41px;
+
+}
+
+nav li {
+
+    padding: 20px;
+    margin-inline: 90px;
+}
+
+nav a {
+
+    color: #a4d5d9;
+    font-weight: bolder;
+    text-decoration: none;
+
+}
+
+
+h1 {
+
+    display: inline-block;
+    margin-top: 3%;
+    margin-bottom: 2%;
+    font-size: 45px;
+    font-family: "Cormorant Garamond", serif;
+    font-optical-sizing: auto;
+    font-weight: 700px;
+    font-style: normal;
+    color: #a4d5d9;
+    background-color: #19354386;
+
+}
+
+.contenedor-h1 {
+
+    text-align: center;
+}
+
+
+
+
+.bebepotter {
+
+    display: block;
+    margin: auto;
+    width: 50%;
+
+}
+
+
+main {
+
+    text-align: center;
+    font-family: "Aref Ruqaa Ink", serif;
+    font-weight: 100;
+    font-style: normal;
+    font-size: 21px;
+    color: #a4d5d9;
+    background-color: #19354386;
+
+}
+
+
+
+article {
+
+    background-color: #19354386;
+    margin: 2%
+}
+
+h2 {
+
+    display: inline-block;
+    font-family: "Cormorant Garamond", serif;
+    font-optical-sizing: auto;
+    font-weight: 700px;
+    font-style: normal;
+    color: #a4d5d9;
+    font-size: 36px;
+    margin-top: 4%;
+    margin-left: 1%;
+    background-color: #19354386;
+}
+
+.inicio-parrafo{
+
+
+    margin: 2%;
+}
+
+h3 {
+
+    display: inline-block;
+    font-family: "Cormorant Garamond", serif;
+    font-optical-sizing: auto;
+    font-weight: 700px;
+    font-style: normal;
+    color: #a4d5d9;
+    font-size: 36px;
+    margin-top: 4%;
+    margin-left: 1%;
+    background-color: #19354386;
+}
+
+.peliculas {
+
+    list-style-type: none;
+    
+
+}
+
+.titulo-peli {
+
+    text-align: center;
+    font-family: "Cormorant Garamond", serif;
+    font-optical-sizing: auto;
+    font-weight: 700px;
+    font-style: normal;
+    color: #a4d5d9;
+    font-size: 36px;
+    padding-top: 35px;
+    padding-bottom: 35px;
+
+}
+
+.bannerpeli {
+
+    padding-top: 35px;
+}
+
+.ollivander {
+
+    width: 65%;
+    height: 65%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.triodorado1 {
+
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+}
+
+
+.triodorado2 {
+
+    width: 1000px;
+    height: 700px;
+    padding-top: 20px;
+    padding-bottom: 35px;
+}
+
+.paredcamara {
+
+    width: 65%;
+    height: 65%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+}
+
+.viborita {
+
+    width: 60%;
+    height: 60;
+    padding-top: 20px;
+    padding-bottom: 35px;
+
+}
+
+.bannerpeli-pa {
+
+    width: 60%;
+    height: 60%;
+    padding-top: 35px;
+    padding-bottom: 20px;
+
+}
+
+.animales-salvajes {
+
+    width: 50%;
+    height: 50%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.giragira {
+
+    width: 60%;
+    height: 60%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+}
+
+.vuelahip {
+
+    width: 60%;
+    height: 60%;
+    padding-top: 20px;
+    padding-bottom: 35px;
+
+}
+
+.prueba-torneo {
+
+    width: 60%;
+    height: 60%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.yule {
+
+    width: 40%;
+    height: 40%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+
+}
+
+.pottdigg {
+
+    width: 60%;
+    height: 60%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+}
+
+.muertecedric {
+
+    width: 45%;
+    height: 45%;
+    padding-top: 35px;
+    padding-bottom: 20px;
+
+
+}
+
+.profe-forra {
+
+
+    width: 60%;
+    height: 60%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+}
+
+.dumbarmy {
+
+
+    width: 60%;
+    height: 60%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+}
+
+.mortadela {
+
+    width: 60%;
+    height: 60%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+}
+
+.pelea-epika {
+
+    width: 60%;
+    height: 60%;
+    padding-top: 20px;
+    padding-bottom: 35px;
+
+}
+
+.fotopjs {
+
+    width: 50%;
+    height: 50%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+}
+
+
+.muertedumble {
+
+    width: 60%;
+    height: 60%;
+    padding-top: 20px;
+    padding-bottom: 35px;
+}
+
+.triodorado3 {
+
+    width: 50%;
+    height: 50%;
+    padding-top: 20px;
+    padding-bottom: 35px;
+
+}
+
+.peleafinal {
+
+    width: 40%;
+    height: 40%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.finalfeliz {
+
+    width: 60%;
+    height: 60%;
+    padding-top: 20px;
+    padding-bottom: 35px;
+
+}
+
+.final {
+
+    font-size: 27px;
+}
+
+p {
+
+    text-align: center;
+    padding: 3%;
+}
+
+footer {
+
+    text-align: center;
+    background-color: #112633;
+    color: #a4d5d9;
+}
+
+.contact {
+    list-style: none;
+}
+
+.listas-foot {
+
+    display: flex;
+    justify-content: center;
+}
+
+.social {
+
+    height: 200px
+}
+
+a {
+     color: #a4d5d9;
+     text-decoration: none;
+}
