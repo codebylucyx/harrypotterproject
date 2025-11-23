@@ -47,7 +47,7 @@ nav ul {
     display: flex;
     margin: 0;
     justify-content: center;
-    margin-right: 41px;
+    padding: 0;
 
 }
 
@@ -155,3 +155,4 @@ a {
      color: #a4d5d9;
      text-decoration: none;
 }
+
